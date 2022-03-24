@@ -1,2 +1,2 @@
 # Fattakh_Rizvan
-My GitHub profile CV 
+### Technologies: python, c++, java, JS.
